@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'nthnaelgrldhaurissa1@gmail.com';
 const ADMIN_NAME = process.env.ADMIN_NAME || 'Nathanael Gerald Haurissa';
 const ADMIN_PHONE = process.env.ADMIN_PHONE || '6283891459366';
-const DISCORD_INVITE = process.env.DISCORD_INVITE || 'https://discord.gg/ultras';
+const DISCORD_INVITE = process.env.DISCORD_INVITE || 'https://discord.gg/4b6EefRFS';
 const PROFILE_NAME = process.env.PROFILE_NAME || 'Ultras';
 
 function formatPhone(phone) {
