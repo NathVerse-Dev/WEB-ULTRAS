@@ -15,8 +15,8 @@ const communityAnnouncements = [
 
 const nextEvent = {
   title: 'Friday Watch Party',
-  date: '2026-12-20T19:00:00',
-  description: 'Nonton konten Roblox bersama komunitas dan ngobrol langsung di voice channel.'
+  date: '2026-06-9T19:00:00',
+  description: 'Nonton bersama komunitas dan ngobrol langsung di voice channel.'
 };
 
 let announcementIndex = 0;
