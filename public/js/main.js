@@ -15,7 +15,7 @@ const communityAnnouncements = [
 
 const nextEvent = {
   title: 'Friday Watch Party',
-  date: '2026-06-9T19:00:00',
+  date: '2026-06-09T19:00:00',
   description: 'Nonton bersama komunitas dan ngobrol langsung di voice channel.'
 };
 
